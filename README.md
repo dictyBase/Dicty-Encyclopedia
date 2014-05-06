@@ -1,4 +1,4 @@
-![dicty_temp_logo](https://github.com/dictyBase/Dicty-Encyclopedia/blob/master/images/dicty_new_logo-ultrasmall.jpg?raw=true)
+![dicty_temp_logo](https://github.com/dictyBase/Dicty-Encyclopedia/blob/master/images/dicty_new_logo-ultrasmall.jpeg?raw=true)
 
 Dicty-Encyclopedia
 ==================
