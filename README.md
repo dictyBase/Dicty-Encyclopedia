@@ -1,6 +1,4 @@
-![dicty_temp_logo](https://github.com/dictyBase/Dicty-Encyclopedia/blob/master/images/dicty_new_logo-ultrasmall.jpeg?raw=true)
-
-Dicty-Encyclopedia
+![dicty_temp_logo](https://github.com/dictyBase/Dicty-Encyclopedia/blob/master/images/dicty_new_logo-ultrasmall.jpeg?raw=true) Dicty-Encyclopedia
 ==================
 
 The central repository of knowledge about dictyBase computational projects.
